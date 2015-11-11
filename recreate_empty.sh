@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+print "Hello, World
+exit
 #!/bin/bash
 #
 # Vittorio Franco Libertucci 
