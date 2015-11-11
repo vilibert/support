@@ -1,11 +1,7 @@
 #!/bin/bash
 #
 # Vittorio Franco Libertucci 
-
-
-                
 location="https://azuresupport.blob.core.windows.net/linux/"
-
 #########################
 #                       #  
 # Verify distro         #
