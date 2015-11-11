@@ -92,5 +92,4 @@ exit
 #https://azure.microsoft.com/en-us/blog/automate-linux-vm-customization-tasks-using-customscript-extension/
 
 
-#Futures
-#Fix fstab - blkids, corrupt kernels, sshd
+
